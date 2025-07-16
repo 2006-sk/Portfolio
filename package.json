@@ -1,8 +1,10 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "shresthkumar-karnani-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://github.com/2006-sk",
   "private": true,
+  "engines": {
+  "node": "18.17.1"},
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
