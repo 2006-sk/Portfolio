@@ -3,13 +3,7 @@
 Welcome to my portfolio.  
 This project showcases my skills, projects, and experiences as a backend engineer and AI automation enthusiast.
 
-🔗 Live Website: [View Portfolio](https://your-live-site-link.com)
-
----
-
-## Screenshots
-
-Add screenshots of your Hero section, Projects section, etc. if available.
+🔗 Live Website: https://tangerine-dragon-85a3d0.netlify.app
 
 ---
 
