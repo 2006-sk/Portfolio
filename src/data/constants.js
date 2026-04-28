@@ -19,7 +19,7 @@ export const skills = [
     title: "Languages",
     skills: [
       { name: "Python" },
-      { name: "Java" },
+      { name: "TypeScript" },
     ],
   },
   {
